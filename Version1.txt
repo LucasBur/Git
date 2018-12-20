@@ -1,2 +1,2 @@
 Page d'accueil, ajout logo
-Gestion des utilisateurs
+Gestion des utilisateurs (bugfix)
