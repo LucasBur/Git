@@ -1,2 +1,4 @@
 Page d'accueil, ajout logo
 Gestion des utilisateurs
+
+Ajout d'un système de géolocalisation
